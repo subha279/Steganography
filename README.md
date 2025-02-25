@@ -51,7 +51,7 @@ python stego.py
 
 ## Example Workflow
 
-```sh
+```
 Enter secret message: Hey What's Up!
 Enter a passcode: 1234
 Encrypted image saved as 'encryptedImage.jpg'
