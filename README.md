@@ -52,11 +52,11 @@ python stego.py
 ## Example Workflow
 
 ```sh
-Enter secret message: Hello, World!
+Enter secret message: Hey What's Up!
 Enter a passcode: 1234
 Encrypted image saved as 'encryptedImage.jpg'
 Enter passcode for Decryption: 1234
-Decryption message: Hello, World!
+Decryption message: Hey What's Up!
 ```
 
 ## Important Notes
