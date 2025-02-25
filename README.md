@@ -43,7 +43,7 @@ pip install opencv-python
 
 ### If you want seperate Encrypt and Decrypt Code Here is the codes
 ## For Encryption
-- save the file as `encrypt.py`
+- Save the file as `encrypt.py`
 ```python
 import cv2
 
@@ -78,7 +78,7 @@ cv2.imwrite("encryptedImage.png", img)
 print("Encryption done. Saved as 'encryptedImage.png'.")
 ```
 ## For Decryption
-- save the file as `decrypt.py`
+- Save the file as `decrypt.py`
 ```python
 import cv2
 
