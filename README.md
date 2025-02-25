@@ -37,10 +37,9 @@ pip install opencv-python
 3. Set a passcode for encryption.
 4. The encrypted image will be saved.
 
-### Decrypt a Message
-1. Run the script.
-2. Enter the correct passcode.
-3. If the password matches, the hidden message will be displayed.
+### The Encryption and Decryption code is in the same file so it will decrypt at the same time
+1. Enter the correct passcode.
+2. If the password matches, the hidden message will be displayed.
 
 ## Running the Script
 
